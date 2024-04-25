@@ -1,6 +1,8 @@
 # python_project
 
-Roller Coaster Database Project
+
+**Roller Coaster Database Project**
+
 Overview
 The Roller Coaster Database Project is a comprehensive analysis of roller coaster data. It involves data cleaning, exploration, and visualization. Here are the key aspects of the project:
 
